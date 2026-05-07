@@ -1,3 +1,21 @@
+<h1 align="center">Hi there, I'm Gerrio Irfan Pratama 👋</h1>
+<h3 align="center">IoT & Fullstack Developer | Informatics Engineering Graduate</h3>
+
+<p align="center">
+  A passionate developer focused on building scalable web applications and smart IoT ecosystems. 
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 **Informatics Engineering** graduate from **Universitas Trilogi**.
+- 🔭 Currently developing and maintaining the **WARAS IoT System**, implementing Fuzzy Learning Automata (FLA) for smart aquaculture.
+- 🌱 Deeply engaged in advanced environmental monitoring, including predictive microclimate control systems for *Tropidolaemus* terrariums.
+- 📝 Actively contributing to academic literature with research publications in Sinta-indexed journals such as **JTIIK** and **JuTISI**.
+- 💼 Actively looking for Fullstack / IoT Developer opportunities in the **Jabodetabek** area.
+
+---
+
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://instagram.com/ggerrio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -17,10 +35,21 @@
 
 ---
 
+## 🚀 Highlighted Projects
+<p align="center">
+  <a href="https://github.com/G-Vengeance/Waras-IoT-Arduino">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=G-Vengeance&repo=Waras-IoT-Arduino&theme=dark" alt="WARAS IoT System" width="48%">
+  </a>
+  <a href="https://github.com/G-Vengeance/dsg-smart-reptile-iot">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=G-Vengeance&repo=dsg-smart-reptile-iot&theme=dark" alt="Tropidolaemus Microclimate Control" width="48%">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
