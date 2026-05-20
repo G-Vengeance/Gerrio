@@ -8,7 +8,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Informatics Engineering** graduate from **Universitas Trilogi**.
 - 🔭 Currently developing and maintaining the **WARAS IoT System**, implementing Fuzzy Learning Automata (FLA) for smart aquaculture.
 - 🌱 Deeply engaged in advanced environmental monitoring, including predictive microclimate control systems for *Tropidolaemus* terrariums.
 - 📝 Actively contributing to academic literature with research publications in Sinta-indexed journals such as **JTIIK** and **JuTISI**.
